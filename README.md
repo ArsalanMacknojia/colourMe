@@ -17,7 +17,7 @@ ColorMe is a distributed, real-time, multiplayer game. The game is played by fou
 ```
 
 ## Gameplay
-![Gameplay](docs/gameplay.PNG)
+![gameplay](docs/gameplay.PNG)
 
 
 ## Game Architecture
